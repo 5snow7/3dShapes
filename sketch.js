@@ -14,7 +14,7 @@ function setup(){
 	
 	function draw(){
 		//text("working w git",50,50,0);
-	background(200,0,0);
+	background(200,200,0);
 	
 	for(let j=0;j<m1.length;j++){		
 	m1[j].move();m1[j].chbdd();
