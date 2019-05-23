@@ -12,7 +12,7 @@ function setup(){
 	}
 }
 	
-	function draw(){
+function draw(){
 		//text("working w git",50,50,0);
 	background(200,200,0);
 	
